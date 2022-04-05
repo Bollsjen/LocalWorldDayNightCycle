@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LocalWorldDayNightCycle:jar">
+    <output-path>$PROJECT_DIR$/../../1.18/Plugins</output-path>
+    <root id="archive" name="LocalWorldDayNightCycle.jar">
+      <element id="module-output" name="LocalWorldDayNightCycle" />
+    </root>
+  </artifact>
+</component>
